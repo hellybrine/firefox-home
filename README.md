@@ -1,4 +1,4 @@
-# TheRealOne78's Browser Homepage
+# Browser Homepage
 
 A fairly minimalistic but also neofetch-like browser homepage.
 
