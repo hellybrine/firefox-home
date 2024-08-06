@@ -4,10 +4,6 @@ A fairly minimalistic but also neofetch-like browser homepage.
 
 ![demoimg](https://i.imgur.com/T0lAxPA.png)
 
-## Make it yours!
-
-With a little bit of tweaks, you can customize it however you like.
-
 ## Terms of use and licensing
 
 The HTML, CSS, and JavaScript (JS) code is governed by the terms of the MIT public license, except for specific sections that are commented as being subject to fair use. Every image and font falls under the rules of Fair Use. The authors of these assets are either unknown or if, as the author of this homepage, I have forgotten their names. If you are an author of these assets and there is a legal problem, please open an Issue in order to solve the problems.
